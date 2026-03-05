@@ -1,4 +1,4 @@
-User Management API Microservice (Flask + PostgreSQL + Docker)
+User Management API Microservice (Powered by Flask + PostgreSQL + Docker)
 
 Overview
 This project implements a containerized microservice for user management. The API is built with Flask and Flask-SQLAlchemy and uses PostgreSQL as the database. The application and database are orchestrated using Docker Compose.
